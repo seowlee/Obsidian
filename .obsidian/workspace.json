@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "bffe2bce097821ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7f57c728b9792f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e2fd6c7846ac5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "591dcc088d9e5446",
+    "type": "split",
+    "children": [
+      {
+        "id": "7972877f2fbec444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3603c52fb6540e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60e060521aac5ede",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7fac2424a6679086",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f08f8e9a5878ff9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "37b0bc59b8164855",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c198752a35c1a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5c0f7354038abd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6e824e481d30398",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec16a5b8f865541d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0462e35156b3de67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:새 캔버스 만들기": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "bb3603c52fb6540e",
+  "lastOpenFiles": [
+    "README.md",
+    "무제 파일.canvas",
+    "project/Polygon/network.md",
+    "project/Blockchain/Reorg.md",
+    "project/Blockchain/EIP.md",
+    "project/Blockchain/Account Abstraction (계정 추상화).md",
+    "project/Blockchain/BIP-32, BIP-39, BIP-44.md",
+    "project/Klaytn/network.md",
+    "project/Avalanche/1. 개념 정리.md",
+    "project/Blockchain/Bitcoin.md",
+    "project/Blockchain/POW, POS.md",
+    "project/Blockchain/Modular Blockchain, Monolithic Blockchain.md",
+    "project/Blockchain/Layer 1, Layer 2, Layer 0.md",
+    "project/Avalanche/2. Fee.md",
+    "image/blockchainNetwork/Pasted image 20240628121925.png",
+    "project/Avalanche/3. Transaction.md",
+    "image/blockchainNetwork/Pasted image 20240627161931.png",
+    "project/Polygon/zkEVM.md",
+    "image/blockchainNetwork/Pasted image 20240617103214.png",
+    "image/blockchainNetwork/Pasted image 20240613161440.png",
+    "project/Klaytn",
+    "image/blockchainNetwork/Pasted image 20240605145823.png",
+    "image/blockchainNetwork/Pasted image 20240605145807.png",
+    "image/blockchainNetwork/Pasted image 20240605144011.png",
+    "project/Polygon",
+    "image/blockchainNetwork/Pasted image 20240526202341.png",
+    "project/Avalanche/4. RPC Provider.md",
+    "project/Blockchain",
+    "project/Avalanche",
+    "project/STO_sale.md"
+  ]
+}
